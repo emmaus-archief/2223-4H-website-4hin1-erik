@@ -9,8 +9,8 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #77bb41;    /* achtergrondkleur lichtgrijs */
-  color: #303030;               /* tekstkleur donkergrijs */
+  background-color: #000000;    /* achtergrondkleur lichtgrijs */
+  color: #ffffff;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
