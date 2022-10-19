@@ -21,7 +21,8 @@ body * {                          /* geldt voor alles in body */
 
 /* Indeling voor alle pagina's */
 .rij {
-  border: 2px;
+  border: 30px;
+  border-block-color:white;
 }
 
 .page {
