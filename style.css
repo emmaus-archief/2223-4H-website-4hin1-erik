@@ -20,6 +20,9 @@ body * {                          /* geldt voor alles in body */
 }
 
 /* Indeling voor alle pagina's */
+.rij {
+  border: 2px;
+}
 
 .page {
   width: 700px;                   /* vaste breedte van 700 pixels */
@@ -51,8 +54,8 @@ p {
   padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
 }
 .kolomRechts {
-  float:left;
-  width: 450px;
+  float:right;
+  width: 320px;
 }
 .kolomStop {
   clear:both;                   /* stop met floaten */
