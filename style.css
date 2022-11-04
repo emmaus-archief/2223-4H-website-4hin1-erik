@@ -9,8 +9,8 @@
 
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
-  background-color: #000000;    /* achtergrondkleur lichtgrijs */
-  color: #ffffff;               /* tekstkleur donkergrijs */
+  background-color: #d6d6d6;    /* achtergrondkleur lichtgrijs */
+  color: #000000;               /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -51,12 +51,12 @@ p {
 
 .kolomLinks {
   float:left;
-  width:250px;
+  width:320px;
   padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
 }
 .kolomRechts {
   float:right;
-  width: 320px;
+  width: 340px;
 }
 .kolomStop {
   clear:both;                   /* stop met floaten */
@@ -74,7 +74,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: skyblue;
+    color: #ffffff;
     text-decoration: none;
 }
 
