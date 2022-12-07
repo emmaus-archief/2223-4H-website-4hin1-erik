@@ -78,7 +78,7 @@ h1, h2, h3 {
 }
 
 a {
-    color: #0040ff;
+    color: #0008ff;
     text-decoration: none;
 }
 
@@ -109,11 +109,11 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #aaaaaa;
+    background-color: #6b6b6b;
 }
 
 nav li a.active {
-    background-color: #474b44;
+    background-color: #8e928b;
 }
 img {
   size: 11px;
