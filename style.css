@@ -174,9 +174,16 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 
-div {
-  div {
-  border: double;
-    border-style:dotted;
+.myDiv {
+  border: 5px : ; whitesmoke;
+  background-color: #fe2703; 
+  text-align: center;
 }
+
+
+  .div {
+  border-style: groove;
+  border-color: coral;
+  border-width: 7px;
+  }
 
