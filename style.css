@@ -10,7 +10,7 @@
 html, body {                      /* geldt voor html en body */
   margin: 0px;                    /* standaard marge 0 */
   background-color: #aaaaaa;    /* achtergrondkleur lichtgrijs */
-  color: #ffffff;     /* tekstkleur donkergrijs */
+  color: #000000;     /* tekstkleur donkergrijs */
 }  
 
 body * {                          /* geldt voor alles in body */
@@ -137,6 +137,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+   background-blend-mode:overlay;
 }
 .bg2 {
   
@@ -149,6 +150,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-blend-mode:overlay;
 }
 .bg3 {
   
@@ -161,6 +163,7 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-blend-mode:overlay;
 }
 .bg4 {
   
@@ -173,19 +176,10 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
-.myDiv {
-  border: 5px : ; whitesmoke;
-  background-color: #fe2703; 
-  text-align: center;
+  background-blend-mode:overlay;
 }
 
 
-  .div {
-  border-style: groove;
-  border-color: coral;
-  border-width: 7px;
-  }
 
 
   
