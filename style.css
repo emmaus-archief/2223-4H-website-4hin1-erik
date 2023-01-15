@@ -115,9 +115,6 @@ nav li a:hover {
 nav li a.active {
     background-color: #8e928b;
 }
-img {
-  size: 11px;
-}
 
 .logo {
   width:20px;
@@ -127,59 +124,175 @@ body, html {
   height: 100%;
 }
  .bg {
-  
   background-image: url("afbeeldingen/exca\ promo.jpeg") ;
-
-  
   height: 100%;
-
-  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
    background-blend-mode:overlay;
 }
 .bg2 {
-  
-  background-image: url("afbeeldingen/630.jpeg") ;
-
-  
+  background-image: url("afbeeldingen/630.jpeg") ;  
   height: 100%;
-
-  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode:overlay;
 }
 .bg3 {
-  
   background-image: url("afbeeldingen/3200x1800a.jpeg") ;
-
-  
   height: 100%;
-
-  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode:overlay;
 }
 .bg4 {
-  
   background-image: url("afbeeldingen/Euromast-Rdam-scaled.jpg") ;
-
-  
   height: 100%;
-
-  
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-blend-mode:overlay;
 }
 
+.foto-rot1 {
+float:left;
+  margin:10px;
+  width:320px;
+}
+
+/* Subpagina Excelsior */
+.div-exca4 {
+ border-radius: 25px;
+  background:red;
+  width: 450px;
+  height: 75px;
+  margin-top:15px;
+  margin-left:5px;
+  margin-right:5px;
+  margin-bottom:5px;
+}
+.div-exca3 {
+ border-radius: 25px;
+  background:red;
+  width: 450px;
+  height: 190px;
+  margin:5px;
+}
+.div-exca2 {
+ border-radius: 25px;
+  background:black; 
+  width: 450px;
+  height: 120px;
+  color:white;
+  margin:5px;
+}
+
+.div-exca1 {
+ border-radius: 25px;
+  background:black; 
+  width: 450px;
+  height: 250px;
+  color:white;
+  margin:5px;
+}
+
+.tekst-exca4 {
+  margin:10px;
+}
+.tekst-exca3 {
+  margin:10px;
+}
+.tekst-exca2 {
+  margin:10px;
+}
+.tekst-exca1 {
+  margin:10px;
+}
+
+.exca-foto {
+  float:right;
+  width: 220px;
+}
 
 
+/* Subpagina Sparta */
+.div-sparta4 {
+ border-radius: 25px;
+  background:red;
+  width: 300px;
+  height: 40px;
+  margin-top:15px;
+  margin-left:5px;
+  margin-right:5px;
+  margin-bottom:5px;
+}
+.div-sparta3 {
+ border-radius: 25px;
+  background:red;
+  width: 450px;
+  margin:5px;
+}
+.div-sparta2 {
+ border-radius: 25px;
+  background:white; 
+  width: 450px;
+  color:black;
+  margin:5px;
+}
+.div-sparta1 {
+ border-radius: 25px;
+  background:white; 
+  width: 450px;
+  color:black;
+  margin:5px;
+}
+.foto-sparta1 {
+  float:right;
+  width:200px;
+  margin-top:50px;
+}
+.tekst-sparta {
+  margin:10px;
+}
 
-  
+
+ /* Subpagina Feyenoord */
+.div-feye4 {
+ border-radius: 25px;
+  background:red;
+  width: 450px;
+  margin-top:15px;
+  margin-left:5px;
+  margin-right:5px;
+  margin-bottom:5px;
+}
+.div-feye3 {
+ border-radius: 25px;
+  background:red;
+  width: 450px;
+  margin:5px;
+}
+.div-feye2 {
+ border-radius: 25px;
+  background:white; 
+  width: 450px;
+  color:black;
+  margin:5px;
+}
+.div-feye1 {
+ border-radius: 25px;
+  background:white; 
+  width: 450px;
+  color:black;
+  margin:5px;
+}
+.tekst-feye {
+  margin:10px;
+}
+.foto-feye1 {
+  float:right;
+  width:200px;
+  margin-top:50px;
+}
